@@ -1,9 +1,13 @@
 ### Hi there 👋
-[![TKONIY's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkoniy&count_private=true&show_icons=true&layout=compact&custom_title=TKONIY's%20GitHub%20stats)](https://github.com/TKONIY/github-readme-stats)
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tkoniy&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="chanchann's github stats"/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkoniy&hide=python,html,css&bg_color=071A2C&text_color=FFFFFF" alt="chanchann's top langs"/>
+</p>
+
 - 🔭 I’m currently working on HIVE and GPU.
 - 📫 How to reach me: yangshen.d@outlook.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkoniy&langs_count=6&count_private=true&layout=compact)](https://github.com/tkoniy/github-readme-stats)
 
 <!--
 **TKONIY/TKONIY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
