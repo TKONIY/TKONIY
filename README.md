@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![TKONIY's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkoniy)](https://github.com/TKONIY/github-readme-stats)
+[![TKONIY's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkoniy&count_private=true&show_icons=true)](https://github.com/TKONIY/github-readme-stats)
 
 - 🔭 I’m currently working on HIVE and GPU.
 - 📫 How to reach me: yangshen.d@outlook.com
