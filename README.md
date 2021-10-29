@@ -4,6 +4,8 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tkoniy&show_icons=true&include_all_commits=false&count_private=true&theme=dracula&hide_border=true" alt="tkoniy's github stats" />
+</p>
+<p align="center">
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=TKONIY&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 <!--
