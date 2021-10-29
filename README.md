@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![TKONIY's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkoniy&count_private=true&show_icons=true)](https://github.com/TKONIY/github-readme-stats)
+[![TKONIY's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkoniy&count_private=true&show_icons=true&layout=compact&custom_title=TKONIY's%20GitHub%20stats&)](https://github.com/TKONIY/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkoniy&langs_count=6&count_private=true&layout=compact)](https://github.com/tkoniy/github-readme-stats)
 
 - 🔭 I’m currently working on HIVE and GPU.
 - 📫 How to reach me: yangshen.d@outlook.com
