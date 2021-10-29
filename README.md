@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on HIVE and GPU.
-- 📫 How to reach me: yangshen.d@outlook.com
+- 📫 yangshen.d@outlook.com
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tkoniy&show_icons=true&include_all_commits=false&count_private=true&theme=dracula&hide_border=true" alt="tkoniy's github stats" />
