@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on HIVE and GPU.
+- 🏢 Database Group at SUSTech.
 - 📫 yangshen.d@outlook.com
 
 <p align="center">
