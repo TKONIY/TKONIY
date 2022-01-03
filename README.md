@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on OLAP systems and GPU .
+- 🔭 I’m currently working on OLAP systems on GPU .
 - 🏢 Database Group at SUSTech.
 - 🏫 Undergraduate student at BUPT.
 - 🏢 Have been worked in CASIA and Ant Group.
