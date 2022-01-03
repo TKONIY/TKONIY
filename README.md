@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on HIVE and GPU.
+- 🔭 I’m currently working on OLAP systems and GPU .
 - 🏢 Database Group at SUSTech.
 - 📫 yangshen.d@outlook.com
 
