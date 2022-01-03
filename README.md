@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on OLAP systems and GPU .
 - 🏢 Database Group at SUSTech.
+- 🏫 Undergraduate student at BUPT.
+- 🏢 Have been worked in CASIA and Ant Group.
 - 📫 yangshen.d@outlook.com
 
 <p align="center">
