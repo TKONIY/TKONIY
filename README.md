@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on GPU DB and Cloud-Native DB.
 - 💻 RA in Database Group at SUSTech.
 - 🖥️ Iternship in GaussDB Group at Huawei.
-- 🏫 Undergraduate student at BUPT.
+- 👨‍🎓 Undergraduate student at BUPT.
 - 🔙 Have been worked in CASIA and Alibaba Ant Group.
 - 📫 yangshen.d@outlook.com
 
