@@ -1,8 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on OLAP systems on GPU .
-- 🏢 Database Group at SUSTech.
+- 🔭 I’m currently working on GPU DB and Cloud-Native DB.
+- 💻 RA in Database Group at SUSTech.
+- 🖥️ Iternship in GaussDB Group at Huawei.
 - 🏫 Undergraduate student at BUPT.
-- 🏢 Have been worked in CASIA and Ant Group.
+- 🔙 Have been worked in CASIA and Alibaba Ant Group.
 - 📫 yangshen.d@outlook.com
 
 <p align="center">
