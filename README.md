@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on GPU DB and Cloud-Native DB.
+- 🔭 I’m currently working on GPU Database.
 - 💻 MPhil in [Database Group at SUSTech](https://dbgroup.sustech.edu.cn/) from 2022.
 - 👨‍🎓 Graduated from [BUPT](https://www.bupt.edu.cn/) in 2022.
 - 🔙 Have been worked in [CASIA](http://ia.cas.cn/), [Alibaba Ant Group](https://www.antgroup.com/) and [Huawei GaussDB Group](https://www.huawei.com/).
