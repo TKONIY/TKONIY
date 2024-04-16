@@ -6,6 +6,7 @@
 - 🔙 Have been interned in [CASIA](http://ia.cas.cn/), [Alibaba Ant Group](https://www.antgroup.com/) and [Huawei GaussDB Group](https://www.huawei.com/).
 - 📫 yangshen.d@outlook.com
 
+<!--
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tkoniy&show_icons=true&include_all_commits=false&count_private=true&theme=dracula&hide_border=true" alt="tkoniy's github stats" />
 </p>
@@ -14,6 +15,7 @@
 </p>
 <!--
 **TKONIY/TKONIY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
