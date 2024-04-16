@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on GPU database.
+- 🔭 I’m currently working on GPU database and LLM system.
 - 👀 I'm very interested in cloud-native databases, vector databases and machine learning systems.
 - 💻 MPhil in [Database Group at SUSTech](https://dbgroup.sustech.edu.cn/) from 2022.
 - 👨‍🎓 Graduated from [BUPT](https://www.bupt.edu.cn/) in 2022.
