@@ -2,7 +2,7 @@
 - 🔭 I am working on database and LLM system.
 - 💻 MPhil in [Database Group at SUSTech](https://dbgroup.sustech.edu.cn/) from 2022.
 - 👨‍🎓 Graduated from [BUPT](https://www.bupt.edu.cn/) in 2022.
-- 🔙 Internships:
+- 🔙 I am happy with my internships in the following places.
   -  [CASIA](http://ia.cas.cn/)
   -  [Alibaba Ant Group](https://www.antgroup.com/)
   -  [Huawei GaussDB Group](https://www.huawei.com/)
