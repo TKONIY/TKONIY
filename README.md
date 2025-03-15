@@ -1,9 +1,13 @@
 ### Hi there 👋 Welcome to Yangshen Deng's Github.
-- 🔭 I’m currently working on GPU database and LLM system.
-- 👀 I'm very interested in cloud-native databases, vector databases and machine learning systems.
+- 🔭 I am working on database and LLM system.
 - 💻 MPhil in [Database Group at SUSTech](https://dbgroup.sustech.edu.cn/) from 2022.
 - 👨‍🎓 Graduated from [BUPT](https://www.bupt.edu.cn/) in 2022.
-- 🔙 Have been interned in [CASIA](http://ia.cas.cn/), [Alibaba Ant Group](https://www.antgroup.com/) and [Huawei GaussDB Group](https://www.huawei.com/).
+- 🔙 Internships:
+  -  [CASIA](http://ia.cas.cn/)
+  -  [Alibaba Ant Group](https://www.antgroup.com/)
+  -  [Huawei GaussDB Group](https://www.huawei.com/)
+  -  [RS3Lab@EPFL](https://rs3lab.github.io/)
+  -  [Systems@TUDa](https://www.informatik.tu-darmstadt.de/systems/systems_tuda/group/team_detail_18624.en.jsp)
 - 📫 yangshen.d@outlook.com
 - 🏠 [dengyangshen.netlify.app](dengyangshen.netlify.app)
 
