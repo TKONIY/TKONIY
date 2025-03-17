@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to Yangshen Deng's Github.
 - 🔭 I am working on database and LLM system.
-- 💻 MPhil in [Database Group at SUSTech](https://dbgroup.sustech.edu.cn/) from `2022`.
+- 💻 MPhil in [DGGroup@SUSTech](https://dbgroup.sustech.edu.cn/) from `2022`.
 - 👨‍🎓 Graduated from [BUPT](https://www.bupt.edu.cn/) in 2022.
 - 🔙 I am happy with my internships in the following places.
   -  `2019` [CASIA](http://ia.cas.cn/) 
