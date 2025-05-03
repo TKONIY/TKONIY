@@ -1,4 +1,6 @@
 ### Hi there 👋 Welcome to Yangshen Deng's Github.
+
+<!--
 - 🔭 I am working on database and LLM system.
 - 💻 MPhil in [DGGroup@SUSTech](https://dbgroup.sustech.edu.cn/).
 - 👨‍🎓 Graduated from [BUPT](https://www.bupt.edu.cn/) in `2022`.
@@ -12,6 +14,7 @@
 - 🏠 [dengyangshen.netlify.app](dengyangshen.netlify.app)
 
 [![](https://ossrank.com/widget/958003)](https://ossrank.com/c/958003-yangshen-deng)
+-->
 
 <!--
 <p align="center">
